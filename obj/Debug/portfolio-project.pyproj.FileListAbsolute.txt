@@ -1,0 +1,2 @@
+D:\Django\portfolio-project\bin\Microsoft.PythonTools.WebRole.dll
+D:\Django\portfolio-project\bin\wfastcgi.py
